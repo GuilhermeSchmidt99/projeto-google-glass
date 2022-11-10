@@ -22,8 +22,8 @@ iframe#yt {
     width: 440px;
 }
 
-video#one-day {
-    display: block;
+video#video-one-day-e-how-it-feels {
+    display: flex;
     position: relative;
     left: 50px;
 }
